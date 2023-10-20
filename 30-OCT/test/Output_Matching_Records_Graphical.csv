@@ -1,0 +1,37 @@
+AIngredients,BAmount,Ingredients.1,DThresholds for Diabetes Mellitus Patient (per serving 50g),EDifference Thresholds for Diabetes Mellitus Patient (per serving 50g)
+Sodium,650.0,Sodium Thiosulfate,0.015,649.985
+Sodium,650.0,Sodium Aluminum Sulfate,0.02,649.98
+Sodium,650.0,Sodium Lauryl Sulfate (SLS),0.03,649.97
+Sodium,650.0,Sodium Aluminum Phosphate,0.05,649.95
+Sodium,650.0,Sodium Caseinate,0.06,649.94
+Sodium,650.0,Sodium Stearoyl Lactylate,0.075,649.925
+Sodium,650.0,Sodium Bisulfite,0.09,649.91
+Sodium,650.0,Sodium Erythorbate,0.09,649.91
+Sodium,650.0,Sodium Metabisulfite,0.09,649.91
+Sodium,650.0,Sodium Metabisulfite,0.09,649.91
+Sodium,650.0,Sodium Acetate,0.1,649.9
+Sodium,650.0,Sodium Tripolyphosphate,0.11,649.89
+Sodium,650.0,Sodium Hexametaphosphate (a food additive),0.11,649.89
+Sodium,650.0,Sodium Lauryl Sulfate (used in some food foaming agents),0.15,649.85
+Sodium,650.0,Sodium Aluminum Silicate,0.15,649.85
+Sodium,650.0,Sodium Nitrite,0.17,649.83
+Sodium,650.0,Sodium Sulfite,0.17,649.83
+Sodium,650.0,Sodium Citrate,0.18,649.82
+Sodium,650.0,Sodium Acetate,0.18,649.82
+Sodium,650.0,Sodium Silicoaluminate,0.18,649.82
+Sodium,650.0,Sodium Diacetate (a flavoring agent),0.19,649.81
+Sodium,650.0,Sodium Tripolyphosphate,0.21,649.79
+Sodium,650.0,Sodium Hexametaphosphate,0.24,649.76
+Sodium,650.0,Sodium Propionate,0.32,649.68
+Sodium,650.0,Sodium Nitrate/Nitrite,0.44,649.56
+Sodium,650.0,Sodium Phosphate,0.5,649.5
+Sodium,650.0,Sodium Aluminum Phosphate,0.75,649.25
+Sodium,650.0,Sodium Sorbate,1.25,648.75
+Sodium,650.0,Sodium Sulfate,2.55,647.45
+Sodium,650.0,High Levels of Sodium (Salt),5.335,644.665
+Sodium,650.0,High Levels of Sodium (Salt),5.335,644.665
+Sodium,650.0,Sodium Benzoate,10.32,639.68
+Sodium,650.0,Sodium Benzoate,10.32,639.68
+Minerals,15.0,Sodium Lauryl Sulfate (used in some food foaming agents),0.15,14.85
+Vitamins,5.0,Sodium Lauryl Sulfate (used in some food foaming agents),0.15,4.85
+Trans Fat,3.0,Trans Fats (partially hydrogenated oils),0.35,2.65
